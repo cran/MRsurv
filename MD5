@@ -1,0 +1,9 @@
+7485fe55e44214be25c8d1c175541d1d *DESCRIPTION
+7d4809c25665332302621b1f1348adbe *NAMESPACE
+d83997e77705a5258538187457430966 *R/prog.R
+43a8887db550797f1895ac4881fedc73 *data/FTR.data.rda
+339af821a7002faa1d256bdfe17cc9c8 *data/STR.data.rda
+5f7e97c8a99bf5d3bdd5c65dde880163 *man/FTR.data.Rd
+2c21f058bdbb7254c67ebd4a4f893575 *man/MRsurv-package.Rd
+5bbf487b310dbee6bee45b4e38ebaae5 *man/MRsurvival.Rd
+b87fdcae520951b55bcd19055ae5792a *man/STR.data.Rd
